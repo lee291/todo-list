@@ -1,6 +1,6 @@
 # To-Do List App
 
-This is a simple to-do list app implemented in Python. The app allows users to add tasks, view existing tasks, and delete tasks from the list. It runs on the command-line interface (CLI) and provides an easy way to manage your daily tasks.
+The to-do list app allows users to add tasks, view existing tasks, and delete tasks from the list. It runs on the command-line interface (CLI) and provides an easy way to manage your daily tasks.
 
 ## Features
 
